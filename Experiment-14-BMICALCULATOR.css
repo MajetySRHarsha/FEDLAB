@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  float: left;
+}
+.calculator{
+  width: 500px;
+  height: 100%;
+  background-color: antiquewhite;
+  text-align: center;
+}
